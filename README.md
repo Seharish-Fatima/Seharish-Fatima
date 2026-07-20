@@ -65,7 +65,7 @@ I'd rather ship something polished, learn a ridiculous amount building it, and t
 | **[FlightRisk](https://github.com/Seharish-Fatima/FlightRisk)** · [live](https://flightrisk.streamlit.app) | End-to-end employee churn prediction with threshold tuning, calibration, and business decision support. | Python, scikit-learn, Streamlit |
 | **[PCA Fraud Detector](https://github.com/Seharish-Fatima/PCA-Fraud-Detector)** · [live](https://pcafrauddetector.streamlit.app) | Unsupervised fraud detection using PCA anomaly scoring in an interactive SOC-style dashboard. | Python, scikit-learn, Streamlit |
 | **[FairCheck](https://github.com/Seharish-Fatima/FairCheck)** · [live](https://faircheck-ml.streamlit.app) | Explore algorithmic fairness with real-time intervention experiments and fairness metrics. | Python, scikit-learn, Streamlit |
-| **[Burnout Detector](https://github.com/Seharish-Fatima/Burnout-Detector)** | An interpretable burnout screener where every prediction is fully transparent. | Python, Streamlit |
+| **[Burnout Detector](https://github.com/Seharish-Fatima/Burnout-Detector)** · [live](https://burnoutdetector.streamlit.app/) | An interpretable burnout screener where every prediction is fully transparent. | Python, Streamlit |
 
 ---
 
